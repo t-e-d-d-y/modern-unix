@@ -128,7 +128,7 @@
     <code>sed</code> for JSON data.
   </p>
   <p align="center">
-    <img src="https://blog.noenieto.com/media/gnome-shell-screenshot-VMABUZ.png" width="600" />
+    <img src="jq-command.png" width="600" />
   </p>
 </p>
 
